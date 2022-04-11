@@ -14,5 +14,6 @@ void main(){
             printf("%4d",arr[i][j]);
         }
         printf("\n");
+        printf("\n");
     }
 }
